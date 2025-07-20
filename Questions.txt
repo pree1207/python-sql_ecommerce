@@ -1,0 +1,7 @@
+1. List all unique cities where customers are located.
+2. Find the total sales per category.
+3. Calculate the percentage of orders that were paid in installments.
+4. Count the number of customers from each state. 
+5. Calculate the number of orders per month in 2018.
+6. Find the average number of products per order, grouped by customer city.
+7. Calculate the percentage of total revenue contributed by each product category.
